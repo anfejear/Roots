@@ -1,0 +1,1007 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2018.1.5)  29 AUG 2018 18:55
+entering extended mode
+**./Roots.tex
+(Roots.tex
+LaTeX2e <2017-04-15>
+Babel <3.15> and hyphenation patterns for 75 language(s) loaded.
+
+("C:\Users\Andrés Jerez\AppData\Local\Programs\MiKTeX 2.9\tex\latex\exam\exam.
+cls"
+Document Class: exam 2017/12/17 Version 2.603 by Philip Hirschhorn
+
+("C:\Users\Andrés Jerez\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\ifthe
+n.sty"
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+("C:\Users\Andrés Jerez\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\artic
+le.cls"
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+
+("C:\Users\Andrés Jerez\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\size1
+1.clo"
+File: size11.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+\@extrawidth=\skip43
+\@rightmargin=\skip44
+\@extrahead=\skip45
+\@extrafoot=\skip46
+\run@exhd=\skip47
+\fp@exhd=\skip48
+\run@exft=\skip49
+\fp@exft=\skip50
+\covrun@exhd=\skip51
+\covfp@exhd=\skip52
+\covrun@exft=\skip53
+\covfp@exft=\skip54
+\c@num@coverpages=\count87
+\c@latest@ques=\count88
+\c@ques@end=\count89
+\c@last@object=\count90
+\c@incmp@ques=\count91
+\c@next@ques=\count92
+\c@next@page=\count93
+\c@tmp@hlfcntr=\count94
+\c@ifpos@cntr=\count95
+\c@question=\count96
+\c@partno=\count97
+\c@subpart=\count98
+\c@subsubpart=\count99
+\c@choice=\count100
+\c@numpoints=\count101
+\c@numbonuspoints=\count102
+\c@pointsof@thisquestion=\count103
+\c@bonuspointsof@thisquestion=\count104
+\c@numquestions=\count105
+\c@numparts=\count106
+\c@numsubparts=\count107
+\c@numsubsubparts=\count108
+\c@Curr@Page=\count109
+\c@@pagepoints=\count110
+\c@@pagebonuspoints=\count111
+\c@pageof@pagepoints=\count112
+\c@pageof@pagebonuspoints=\count113
+\c@latest@points=\count114
+\c@latest@bonuspoints=\count115
+\pageinfo@commands=\toks14
+\temp@toks=\toks15
+\pagepoint@commands=\toks16
+\point@toks=\toks17
+\c@ques@object=\count116
+\marginpointssep=\skip55
+\rightpointsmargin=\skip56
+\choice@toks=\toks18
+\answerlinelength=\skip57
+\answerskip=\skip58
+\answerclearance=\skip59
+\fillinlinelength=\skip60
+\linefillheight=\skip61
+\linefillthickness=\skip62
+\dottedlinefillheight=\skip63
+\gridsize=\skip64
+\gridlinewidth=\skip65
+\minboxheight=\skip66
+\c@@iterator=\count117
+\@cellwidth=\skip67
+\c@tbl@points=\count118
+\c@tbl@bonuspoints=\count119
+\c@pq@index=\count120
+\c@pq@index@pts=\count121
+\c@pq@index@bpts=\count122
+\c@num@cols=\count123
+\c@num@rows=\count124
+\c@current@row=\count125
+\c@cols@done=\count126
+\exam@box=\box26
+\saved@totalleftmargin=\dimen103
+\@sollistdepth=\count127
+\exam@FrameRule=\dimen104
+\exam@FrameSep=\dimen105
+)
+("C:\Users\Andrés Jerez\AppData\Local\Programs\MiKTeX 2.9\tex\latex\multirow\m
+ultirow.sty"
+Package: multirow 2016/11/25 v2.2 Span multiple rows of a table
+\multirow@colwidth=\skip68
+\multirow@cntb=\count128
+\multirow@dima=\skip69
+\bigstrutjot=\dimen106
+)
+("C:\Users\Andrés Jerez\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\arra
+y.sty"
+Package: array 2016/10/06 v2.4d Tabular extension package (FMi)
+\col@sep=\dimen107
+\extrarowheight=\dimen108
+\NC@list=\toks19
+\extratabsurround=\skip70
+\backup@length=\skip71
+)
+("C:\Users\Andrés Jerez\AppData\Local\Programs\MiKTeX 2.9\tex\latex\slashbox\s
+lashbox.sty"
+slashbox style by K.Yasuoka, May 1993.
+\@slashboxa=\box27
+\@slashboxb=\box28
+\@slashboxc=\box29
+\@slashboxwd=\count129
+\@slashboxht=\count130
+\@slashsepl=\dimen109
+\@slashsepr=\dimen110
+)
+("C:\Users\Andrés Jerez\AppData\Local\Programs\MiKTeX 2.9\tex\latex\booktabs\b
+ooktabs.sty"
+Package: booktabs 2005/04/14 v1.61803 publication quality tables
+\heavyrulewidth=\dimen111
+\lightrulewidth=\dimen112
+\cmidrulewidth=\dimen113
+\belowrulesep=\dimen114
+\belowbottomsep=\dimen115
+\aboverulesep=\dimen116
+\abovetopsep=\dimen117
+\cmidrulesep=\dimen118
+\cmidrulekern=\dimen119
+\defaultaddspace=\dimen120
+\@cmidla=\count131
+\@cmidlb=\count132
+\@aboverulesep=\dimen121
+\@belowrulesep=\dimen122
+\@thisruleclass=\count133
+\@lastruleclass=\count134
+\@thisrulewidth=\dimen123
+)
+("C:\Users\Andrés Jerez\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\am
+smath.sty"
+Package: amsmath 2017/09/02 v2.17a AMS math features
+\@mathmargin=\skip72
+
+For additional information on amsmath, use the `?' option.
+
+("C:\Users\Andrés Jerez\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\am
+stext.sty"
+Package: amstext 2000/06/29 v2.01 AMS text
+
+("C:\Users\Andrés Jerez\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\am
+sgen.sty"
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks20
+\ex@=\dimen124
+))
+("C:\Users\Andrés Jerez\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\am
+sbsy.sty"
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen125
+)
+("C:\Users\Andrés Jerez\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\am
+sopn.sty"
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count135
+LaTeX Info: Redefining \frac on input line 213.
+\uproot@=\count136
+\leftroot@=\count137
+LaTeX Info: Redefining \overline on input line 375.
+\classnum@=\count138
+\DOTSCASE@=\count139
+LaTeX Info: Redefining \ldots on input line 472.
+LaTeX Info: Redefining \dots on input line 475.
+LaTeX Info: Redefining \cdots on input line 596.
+\Mathstrutbox@=\box30
+\strutbox@=\box31
+\big@size=\dimen126
+LaTeX Font Info:    Redeclaring font encoding OML on input line 712.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
+\macc@depth=\count140
+\c@MaxMatrixCols=\count141
+\dotsspace@=\muskip10
+\c@parentequation=\count142
+\dspbrk@lvl=\count143
+\tag@help=\toks21
+\row@=\count144
+\column@=\count145
+\maxfields@=\count146
+\andhelp@=\toks22
+\eqnshift@=\dimen127
+\alignsep@=\dimen128
+\tagshift@=\dimen129
+\tagwidth@=\dimen130
+\totwidth@=\dimen131
+\lineht@=\dimen132
+\@envbody=\toks23
+\multlinegap=\skip73
+\multlinetaggap=\skip74
+\mathdisplay@stack=\toks24
+LaTeX Info: Redefining \[ on input line 2817.
+LaTeX Info: Redefining \] on input line 2818.
+)
+("C:\Users\Andrés Jerez\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\a
+mssymb.sty"
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+("C:\Users\Andrés Jerez\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\a
+msfonts.sty"
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+("C:\Users\Andrés Jerez\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\latex
+sym.sty"
+Package: latexsym 1998/08/17 v2.2e Standard LaTeX package (lasy symbols)
+\symlasy=\mathgroup6
+LaTeX Font Info:    Overwriting symbol font `lasy' in version `bold'
+(Font)                  U/lasy/m/n --> U/lasy/b/n on input line 52.
+)
+("C:\Users\Andrés Jerez\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\verb
+atim.sty"
+Package: verbatim 2014/10/28 v1.5q LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks25
+\verbatim@line=\toks26
+\verbatim@in@stream=\read1
+)
+("C:\Users\Andrés Jerez\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\xspa
+ce.sty"
+Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
+)
+("C:\Users\Andrés Jerez\AppData\Local\Programs\MiKTeX 2.9\tex\latex\setspace\s
+etspace.sty"
+Package: setspace 2011/12/19 v6.7a set line spacing
+)
+("C:\Users\Andrés Jerez\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\fronte
+ndlayer\tikz.sty"
+("C:\Users\Andrés Jerez\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\basicl
+ayer\pgf.sty"
+("C:\Users\Andrés Jerez\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\utilit
+ies\pgfrcs.sty"
+("C:\Users\Andrés Jerez\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\util
+ities\pgfutil-common.tex"
+\pgfutil@everybye=\toks27
+\pgfutil@tempdima=\dimen133
+\pgfutil@tempdimb=\dimen134
+
+("C:\Users\Andrés Jerez\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\util
+ities\pgfutil-common-lists.tex"))
+("C:\Users\Andrés Jerez\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\util
+ities\pgfutil-latex.def"
+\pgfutil@abb=\box32
+
+("C:\Users\Andrés Jerez\AppData\Local\Programs\MiKTeX 2.9\tex\latex\ms\everysh
+i.sty"
+Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
+))
+("C:\Users\Andrés Jerez\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\util
+ities\pgfrcs.code.tex"
+Package: pgfrcs 2015/08/07 v3.0.1a (rcs-revision 1.31)
+))
+Package: pgf 2015/08/07 v3.0.1a (rcs-revision 1.15)
+
+("C:\Users\Andrés Jerez\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\basicl
+ayer\pgfcore.sty"
+("C:\Users\Andrés Jerez\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\g
+raphicx.sty"
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\Andrés Jerez\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\k
+eyval.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks28
+)
+("C:\Users\Andrés Jerez\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\g
+raphics.sty"
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\Andrés Jerez\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\t
+rig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Users\Andrés Jerez\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-c
+fg\graphics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+("C:\Users\Andrés Jerez\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-d
+ef\pdftex.def"
+File: pdftex.def 2017/06/24 v1.0g Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen135
+\Gin@req@width=\dimen136
+)
+("C:\Users\Andrés Jerez\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\system
+layer\pgfsys.sty"
+("C:\Users\Andrés Jerez\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\syst
+emlayer\pgfsys.code.tex"
+Package: pgfsys 2014/07/09 v3.0.1a (rcs-revision 1.48)
+
+("C:\Users\Andrés Jerez\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\util
+ities\pgfkeys.code.tex"
+\pgfkeys@pathtoks=\toks29
+\pgfkeys@temptoks=\toks30
+
+("C:\Users\Andrés Jerez\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\util
+ities\pgfkeysfiltered.code.tex"
+\pgfkeys@tmptoks=\toks31
+))
+\pgf@x=\dimen137
+\pgf@y=\dimen138
+\pgf@xa=\dimen139
+\pgf@ya=\dimen140
+\pgf@xb=\dimen141
+\pgf@yb=\dimen142
+\pgf@xc=\dimen143
+\pgf@yc=\dimen144
+\w@pgf@writea=\write3
+\r@pgf@reada=\read2
+\c@pgf@counta=\count147
+\c@pgf@countb=\count148
+\c@pgf@countc=\count149
+\c@pgf@countd=\count150
+\t@pgf@toka=\toks32
+\t@pgf@tokb=\toks33
+\t@pgf@tokc=\toks34
+
+("C:\Users\Andrés Jerez\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\syst
+emlayer\pgf.cfg"
+File: pgf.cfg 2008/05/14  (rcs-revision 1.7)
+)
+Driver file for pgf: pgfsys-pdftex.def
+
+("C:\Users\Andrés Jerez\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\syst
+emlayer\pgfsys-pdftex.def"
+File: pgfsys-pdftex.def 2014/10/11  (rcs-revision 1.35)
+
+("C:\Users\Andrés Jerez\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\syst
+emlayer\pgfsys-common-pdf.def"
+File: pgfsys-common-pdf.def 2013/10/10  (rcs-revision 1.13)
+)))
+("C:\Users\Andrés Jerez\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\syst
+emlayer\pgfsyssoftpath.code.tex"
+File: pgfsyssoftpath.code.tex 2013/09/09  (rcs-revision 1.9)
+\pgfsyssoftpath@smallbuffer@items=\count151
+\pgfsyssoftpath@bigbuffer@items=\count152
+)
+("C:\Users\Andrés Jerez\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\syst
+emlayer\pgfsysprotocol.code.tex"
+File: pgfsysprotocol.code.tex 2006/10/16  (rcs-revision 1.4)
+))
+("C:\Users\Andrés Jerez\AppData\Local\Programs\MiKTeX 2.9\tex\latex\xcolor\xco
+lor.sty"
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+("C:\Users\Andrés Jerez\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-c
+fg\color.cfg"
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+)
+("C:\Users\Andrés Jerez\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basi
+clayer\pgfcore.code.tex"
+Package: pgfcore 2010/04/11 v3.0.1a (rcs-revision 1.7)
+
+("C:\Users\Andrés Jerez\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math
+\pgfmath.code.tex"
+("C:\Users\Andrés Jerez\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math
+\pgfmathcalc.code.tex"
+("C:\Users\Andrés Jerez\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math
+\pgfmathutil.code.tex")
+("C:\Users\Andrés Jerez\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math
+\pgfmathparser.code.tex"
+\pgfmath@dimen=\dimen145
+\pgfmath@count=\count153
+\pgfmath@box=\box33
+\pgfmath@toks=\toks35
+\pgfmath@stack@operand=\toks36
+\pgfmath@stack@operation=\toks37
+)
+("C:\Users\Andrés Jerez\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math
+\pgfmathfunctions.code.tex"
+("C:\Users\Andrés Jerez\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math
+\pgfmathfunctions.basic.code.tex")
+("C:\Users\Andrés Jerez\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math
+\pgfmathfunctions.trigonometric.code.tex")
+("C:\Users\Andrés Jerez\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math
+\pgfmathfunctions.random.code.tex")
+("C:\Users\Andrés Jerez\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math
+\pgfmathfunctions.comparison.code.tex")
+("C:\Users\Andrés Jerez\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math
+\pgfmathfunctions.base.code.tex")
+("C:\Users\Andrés Jerez\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math
+\pgfmathfunctions.round.code.tex")
+("C:\Users\Andrés Jerez\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math
+\pgfmathfunctions.misc.code.tex")
+("C:\Users\Andrés Jerez\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math
+\pgfmathfunctions.integerarithmetics.code.tex")))
+("C:\Users\Andrés Jerez\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math
+\pgfmathfloat.code.tex"
+\c@pgfmathroundto@lastzeros=\count154
+))
+("C:\Users\Andrés Jerez\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basi
+clayer\pgfcorepoints.code.tex"
+File: pgfcorepoints.code.tex 2013/10/07  (rcs-revision 1.27)
+\pgf@picminx=\dimen146
+\pgf@picmaxx=\dimen147
+\pgf@picminy=\dimen148
+\pgf@picmaxy=\dimen149
+\pgf@pathminx=\dimen150
+\pgf@pathmaxx=\dimen151
+\pgf@pathminy=\dimen152
+\pgf@pathmaxy=\dimen153
+\pgf@xx=\dimen154
+\pgf@xy=\dimen155
+\pgf@yx=\dimen156
+\pgf@yy=\dimen157
+\pgf@zx=\dimen158
+\pgf@zy=\dimen159
+)
+("C:\Users\Andrés Jerez\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basi
+clayer\pgfcorepathconstruct.code.tex"
+File: pgfcorepathconstruct.code.tex 2013/10/07  (rcs-revision 1.29)
+\pgf@path@lastx=\dimen160
+\pgf@path@lasty=\dimen161
+)
+("C:\Users\Andrés Jerez\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basi
+clayer\pgfcorepathusage.code.tex"
+File: pgfcorepathusage.code.tex 2014/11/02  (rcs-revision 1.24)
+\pgf@shorten@end@additional=\dimen162
+\pgf@shorten@start@additional=\dimen163
+)
+("C:\Users\Andrés Jerez\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basi
+clayer\pgfcorescopes.code.tex"
+File: pgfcorescopes.code.tex 2015/05/08  (rcs-revision 1.46)
+\pgfpic=\box34
+\pgf@hbox=\box35
+\pgf@layerbox@main=\box36
+\pgf@picture@serial@count=\count155
+)
+("C:\Users\Andrés Jerez\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basi
+clayer\pgfcoregraphicstate.code.tex"
+File: pgfcoregraphicstate.code.tex 2014/11/02  (rcs-revision 1.12)
+\pgflinewidth=\dimen164
+)
+("C:\Users\Andrés Jerez\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basi
+clayer\pgfcoretransformations.code.tex"
+File: pgfcoretransformations.code.tex 2015/08/07  (rcs-revision 1.20)
+\pgf@pt@x=\dimen165
+\pgf@pt@y=\dimen166
+\pgf@pt@temp=\dimen167
+)
+("C:\Users\Andrés Jerez\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basi
+clayer\pgfcorequick.code.tex"
+File: pgfcorequick.code.tex 2008/10/09  (rcs-revision 1.3)
+)
+("C:\Users\Andrés Jerez\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basi
+clayer\pgfcoreobjects.code.tex"
+File: pgfcoreobjects.code.tex 2006/10/11  (rcs-revision 1.2)
+)
+("C:\Users\Andrés Jerez\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basi
+clayer\pgfcorepathprocessing.code.tex"
+File: pgfcorepathprocessing.code.tex 2013/09/09  (rcs-revision 1.9)
+)
+("C:\Users\Andrés Jerez\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basi
+clayer\pgfcorearrows.code.tex"
+File: pgfcorearrows.code.tex 2015/05/14  (rcs-revision 1.43)
+\pgfarrowsep=\dimen168
+)
+("C:\Users\Andrés Jerez\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basi
+clayer\pgfcoreshade.code.tex"
+File: pgfcoreshade.code.tex 2013/07/15  (rcs-revision 1.15)
+\pgf@max=\dimen169
+\pgf@sys@shading@range@num=\count156
+)
+("C:\Users\Andrés Jerez\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basi
+clayer\pgfcoreimage.code.tex"
+File: pgfcoreimage.code.tex 2013/07/15  (rcs-revision 1.18)
+
+("C:\Users\Andrés Jerez\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basi
+clayer\pgfcoreexternal.code.tex"
+File: pgfcoreexternal.code.tex 2014/07/09  (rcs-revision 1.21)
+\pgfexternal@startupbox=\box37
+))
+("C:\Users\Andrés Jerez\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basi
+clayer\pgfcorelayers.code.tex"
+File: pgfcorelayers.code.tex 2013/07/18  (rcs-revision 1.7)
+)
+("C:\Users\Andrés Jerez\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basi
+clayer\pgfcoretransparency.code.tex"
+File: pgfcoretransparency.code.tex 2013/09/30  (rcs-revision 1.5)
+)
+("C:\Users\Andrés Jerez\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basi
+clayer\pgfcorepatterns.code.tex"
+File: pgfcorepatterns.code.tex 2013/11/07  (rcs-revision 1.5)
+)))
+("C:\Users\Andrés Jerez\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\modu
+les\pgfmoduleshapes.code.tex"
+File: pgfmoduleshapes.code.tex 2014/03/21  (rcs-revision 1.35)
+\pgfnodeparttextbox=\box38
+)
+("C:\Users\Andrés Jerez\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\modu
+les\pgfmoduleplot.code.tex"
+File: pgfmoduleplot.code.tex 2015/08/03  (rcs-revision 1.13)
+)
+("C:\Users\Andrés Jerez\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\compat
+ibility\pgfcomp-version-0-65.sty"
+Package: pgfcomp-version-0-65 2007/07/03 v3.0.1a (rcs-revision 1.7)
+\pgf@nodesepstart=\dimen170
+\pgf@nodesepend=\dimen171
+)
+("C:\Users\Andrés Jerez\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\compat
+ibility\pgfcomp-version-1-18.sty"
+Package: pgfcomp-version-1-18 2007/07/23 v3.0.1a (rcs-revision 1.1)
+))
+("C:\Users\Andrés Jerez\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\utilit
+ies\pgffor.sty"
+("C:\Users\Andrés Jerez\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\utilit
+ies\pgfkeys.sty"
+("C:\Users\Andrés Jerez\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\util
+ities\pgfkeys.code.tex"))
+("C:\Users\Andrés Jerez\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\math\p
+gfmath.sty"
+("C:\Users\Andrés Jerez\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math
+\pgfmath.code.tex"))
+("C:\Users\Andrés Jerez\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\util
+ities\pgffor.code.tex"
+Package: pgffor 2013/12/13 v3.0.1a (rcs-revision 1.25)
+
+("C:\Users\Andrés Jerez\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math
+\pgfmath.code.tex")
+\pgffor@iter=\dimen172
+\pgffor@skip=\dimen173
+\pgffor@stack=\toks38
+\pgffor@toks=\toks39
+))
+("C:\Users\Andrés Jerez\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\fron
+tendlayer\tikz\tikz.code.tex"
+Package: tikz 2015/08/07 v3.0.1a (rcs-revision 1.151)
+
+("C:\Users\Andrés Jerez\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\libr
+aries\pgflibraryplothandlers.code.tex"
+File: pgflibraryplothandlers.code.tex 2013/08/31 v3.0.1a (rcs-revision 1.20)
+\pgf@plot@mark@count=\count157
+\pgfplotmarksize=\dimen174
+)
+\tikz@lastx=\dimen175
+\tikz@lasty=\dimen176
+\tikz@lastxsaved=\dimen177
+\tikz@lastysaved=\dimen178
+\tikzleveldistance=\dimen179
+\tikzsiblingdistance=\dimen180
+\tikz@figbox=\box39
+\tikz@figbox@bg=\box40
+\tikz@tempbox=\box41
+\tikz@tempbox@bg=\box42
+\tikztreelevel=\count158
+\tikznumberofchildren=\count159
+\tikznumberofcurrentchild=\count160
+\tikz@fig@count=\count161
+
+("C:\Users\Andrés Jerez\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\modu
+les\pgfmodulematrix.code.tex"
+File: pgfmodulematrix.code.tex 2013/09/17  (rcs-revision 1.8)
+\pgfmatrixcurrentrow=\count162
+\pgfmatrixcurrentcolumn=\count163
+\pgf@matrix@numberofcolumns=\count164
+)
+\tikz@expandcount=\count165
+
+("C:\Users\Andrés Jerez\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\fron
+tendlayer\tikz\libraries\tikzlibrarytopaths.code.tex"
+File: tikzlibrarytopaths.code.tex 2008/06/17 v3.0.1a (rcs-revision 1.2)
+)))
+("C:\Users\Andrés Jerez\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\compat
+ibility\pgflibraryplotmarks.sty"
+
+Package pgf Warning: This package is obsolete. Use \usetikzlibrary {plotmarks} 
+instead on input line 11.
+
+
+("C:\Users\Andrés Jerez\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\libr
+aries\pgflibraryplotmarks.code.tex"
+File: pgflibraryplotmarks.code.tex 2015/08/03 v3.0.1a (rcs-revision 1.14)
+))
+("C:\Users\Andrés Jerez\AppData\Local\Programs\MiKTeX 2.9\tex\latex\algorithm2
+e\algorithm2e.sty"
+Package: algorithm2e 2017/07/18 v5.2 algorithms environments
+\c@AlgoLine=\count166
+\algocf@hangindent=\skip75
+
+("C:\Users\Andrés Jerez\AppData\Local\Programs\MiKTeX 2.9\tex\latex\ifoddpage\
+ifoddpage.sty"
+Package: ifoddpage 2016/04/23 v1.1 Conditionals for odd/even page detection
+\c@checkoddpage=\count167
+)
+("C:\Users\Andrés Jerez\AppData\Local\Programs\MiKTeX 2.9\tex\latex\ltxmisc\re
+lsize.sty"
+Package: relsize 2003/07/04 ver 3.1
+)
+\skiptotal=\skip76
+\skiplinenumber=\skip77
+\skiprule=\skip78
+\skiphlne=\skip79
+\skiptext=\skip80
+\skiplength=\skip81
+\algomargin=\skip82
+\skipalgocfslide=\skip83
+\algowidth=\dimen181
+\inoutsize=\dimen182
+\inoutindent=\dimen183
+\interspacetitleruled=\dimen184
+\interspacealgoruled=\dimen185
+\interspacetitleboxruled=\dimen186
+\algocf@ruledwidth=\skip84
+\algocf@inoutbox=\box43
+\algocf@inputbox=\box44
+\AlCapSkip=\skip85
+\AlCapHSkip=\skip86
+\algoskipindent=\skip87
+\algocf@nlbox=\box45
+\algocf@hangingbox=\box46
+\algocf@untilbox=\box47
+\algocf@skipuntil=\skip88
+\algocf@capbox=\box48
+\algocf@lcaptionbox=\skip89
+\algoheightruledefault=\skip90
+\algoheightrule=\skip91
+\algotitleheightruledefault=\skip92
+\algotitleheightrule=\skip93
+\c@algocfline=\count168
+\c@algocfproc=\count169
+\c@algocf=\count170
+\algocf@algoframe=\box49
+\algocf@algobox=\box50
+)
+("C:\Users\Andrés Jerez\AppData\Local\Programs\MiKTeX 2.9\tex\latex\subfigure\
+subfigure.sty"
+Package: subfigure 2002/07/30 v2.1.4 subfigure package
+\subfigtopskip=\skip94
+\subfigcapskip=\skip95
+\subfigcaptopadj=\dimen187
+\subfigbottomskip=\skip96
+\subfigcapmargin=\dimen188
+\subfiglabelskip=\skip97
+\c@subfigure=\count171
+\c@lofdepth=\count172
+\c@subtable=\count173
+\c@lotdepth=\count174
+
+****************************************
+* Local config file subfigure.cfg used *
+****************************************
+
+("C:\Users\Andrés Jerez\AppData\Local\Programs\MiKTeX 2.9\tex\latex\subfigure\
+subfigure.cfg")
+\subfig@top=\skip98
+\subfig@bottom=\skip99
+)
+("C:\Users\Andrés Jerez\AppData\Local\Programs\MiKTeX 2.9\tex\latex\algorithms
+\algorithmic.sty"
+Package: algorithmic 2009/08/24 v0.1 Document Style `algorithmic'
+\c@ALC@unique=\count175
+\c@ALC@line=\count176
+\c@ALC@rem=\count177
+\c@ALC@depth=\count178
+\ALC@tlm=\skip100
+\algorithmicindent=\skip101
+)
+("C:\Users\Andrés Jerez\AppData\Local\Programs\MiKTeX 2.9\tex\latex\geometry\g
+eometry.sty"
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+("C:\Users\Andrés Jerez\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek
+\ifpdf.sty"
+Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
+)
+("C:\Users\Andrés Jerez\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek
+\ifvtex.sty"
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+("C:\Users\Andrés Jerez\AppData\Local\Programs\MiKTeX 2.9\tex\generic\ifxetex\
+ifxetex.sty"
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count179
+\Gm@cntv=\count180
+\c@Gm@tempcnt=\count181
+\Gm@bindingoffset=\dimen189
+\Gm@wd@mp=\dimen190
+\Gm@odd@mp=\dimen191
+\Gm@even@mp=\dimen192
+\Gm@layoutwidth=\dimen193
+\Gm@layoutheight=\dimen194
+\Gm@layouthoffset=\dimen195
+\Gm@layoutvoffset=\dimen196
+\Gm@dimlist=\toks40
+
+("C:\Users\Andrés Jerez\AppData\Local\Programs\MiKTeX 2.9\tex\latex\geometry\g
+eometry.cfg")) (Roots.aux)
+\openout1 = `Roots.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+ ABD: EveryShipout initializing macros
+("C:\Users\Andrés Jerez\AppData\Local\Programs\MiKTeX 2.9\tex\context\base\sup
+p-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count182
+\scratchdimen=\dimen197
+\scratchbox=\box51
+\nofMPsegments=\count183
+\nofMParguments=\count184
+\everyMPshowfont=\toks41
+\MPscratchCnt=\count185
+\MPscratchDim=\dimen198
+\MPnumerator=\count186
+\makeMPintoPDFobject=\count187
+\everyMPtoPDFconversion=\toks42
+)
+("C:\Users\Andrés Jerez\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\e
+pstopdf-base.sty"
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+("C:\Users\Andrés Jerez\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek
+\infwarerr.sty"
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+("C:\Users\Andrés Jerez\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\g
+rfext.sty"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+("C:\Users\Andrés Jerez\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek
+\kvdefinekeys.sty"
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+
+("C:\Users\Andrés Jerez\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek
+\ltxcmds.sty"
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)))
+("C:\Users\Andrés Jerez\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\k
+voptions.sty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+("C:\Users\Andrés Jerez\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek
+\kvsetkeys.sty"
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+("C:\Users\Andrés Jerez\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek
+\etexcmds.sty"
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+
+("C:\Users\Andrés Jerez\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek
+\ifluatex.sty"
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+("C:\Users\Andrés Jerez\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek
+\pdftexcmds.sty"
+Package: pdftexcmds 2017/03/19 v0.25 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(72.26999pt, 469.75502pt, 72.26999pt)
+* v-part:(T,H,B)=(72.26999pt, 650.43001pt, 72.26999pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=469.75502pt
+* \textheight=650.43001pt
+* \oddsidemargin=0.0pt
+* \evensidemargin=0.0pt
+* \topmargin=-30.0pt
+* \headheight=15.0pt
+* \headsep=15.0pt
+* \topskip=11.0pt
+* \footskip=29.0pt
+* \marginparwidth=36.135pt
+* \marginparsep=5.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 63--66
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 70--75
+
+ []
+
+
+Overfull \hbox (33.663pt too wide) in paragraph at lines 78--79
+\OT1/cmr/bx/n/10.95 Name: [] Scholar ID: [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 78--79
+
+ []
+
+LaTeX Font Info:    Try loading font information for U+msa on input line 92.
+
+("C:\Users\Andrés Jerez\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\u
+msa.fd"
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 92.
+
+("C:\Users\Andrés Jerez\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\u
+msb.fd"
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Try loading font information for U+lasy on input line 92.
+
+("C:\Users\Andrés Jerez\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\ulasy
+.fd"
+File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
+)
+Underfull \hbox (badness 10000) in paragraph at lines 92--94
+
+ []
+
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 96.
+
+("C:\Users\Andrés Jerez\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\omscm
+r.fd"
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 96.
+<img/Functions.pdf, id=4, pagebox=cropbox, 939.51pt x 722.7pt>
+File: img/Functions.pdf Graphic file (type pdf)
+<use img/Functions.pdf>
+Package pdftex.def Info: img/Functions.pdf  used on input line 120. on input li
+ne 120.
+Package pdftex.def Info: Requested size: 341.43306pt x 262.64195pt on input lin
+e 120.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[1
+
+{C:/Users/Andrés Jerez/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
+[2 <./img/Functions.pdf>]
+<img/DeltaVsIter.pdf, id=215, pagebox=cropbox, 939.51pt x 722.7pt>
+File: img/DeltaVsIter.pdf Graphic file (type pdf)
+<use img/DeltaVsIter.pdf>
+Package pdftex.def Info: img/DeltaVsIter.pdf  used on input line 183. on input 
+line 183.
+Package pdftex.def Info: Requested size: 341.43306pt x 262.64195pt on input lin
+e 183.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<img/ErrorVsIter.pdf, id=216, pagebox=cropbox, 939.51pt x 722.7pt>
+File: img/ErrorVsIter.pdf Graphic file (type pdf)
+<use img/ErrorVsIter.pdf>
+Package pdftex.def Info: img/ErrorVsIter.pdf  used on input line 187. on input 
+line 187.
+Package pdftex.def Info: Requested size: 341.43306pt x 262.64195pt on input lin
+e 187.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<img/ErrVsErr1.pdf, id=217, pagebox=cropbox, 939.51pt x 722.7pt>
+File: img/ErrVsErr1.pdf Graphic file (type pdf)
+<use img/ErrVsErr1.pdf>
+Package pdftex.def Info: img/ErrVsErr1.pdf  used on input line 192. on input li
+ne 192.
+Package pdftex.def Info: Requested size: 341.43306pt x 262.64195pt on input lin
+e 192.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<img/TimeVsDelta.pdf, id=218, pagebox=cropbox, 939.51pt x 722.7pt>
+File: img/TimeVsDelta.pdf Graphic file (type pdf)
+<use img/TimeVsDelta.pdf>
+Package pdftex.def Info: img/TimeVsDelta.pdf  used on input line 197. on input 
+line 197.
+Package pdftex.def Info: Requested size: 341.43306pt x 262.64195pt on input lin
+e 197.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[3]
+
+LaTeX Warning: Text page 4 contains only floats.
+
+[4 <./img/DeltaVsIter.pdf> <./img/ErrorVsIter.pdf
+
+pdfTeX warning: pdflatex.exe (file ./img/ErrorVsIter.pdf): PDF inclusion: multi
+ple pdfs with page group included in a single page
+>]
+
+LaTeX Warning: Text page 5 contains only floats.
+
+[5 <./img/ErrVsErr1.pdf> <./img/TimeVsDelta.pdf
+
+pdfTeX warning: pdflatex.exe (file ./img/TimeVsDelta.pdf): PDF inclusion: multi
+ple pdfs with page group included in a single page
+>]
+This exam contains 0 questions with 0 parts, 0 subparts, and 0 subsubparts.
+(Roots.aux) ) 
+Here is how much of TeX's memory you used:
+ 15288 strings out of 493312
+ 296130 string characters out of 3126346
+ 356298 words of memory out of 3000000
+ 18519 multiletter control sequences out of 15000+200000
+ 9519 words of font info for 38 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 55i,10n,54p,1067b,223s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Users/Andrés Jerez/AppData/Local/Programs/MiKTeX 2.9/fonts/ty
+pe1/public/amsfonts/cm/cmbx10.pfb><C:/Users/Andrés Jerez/AppData/Local/Program
+s/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Andrés Jerez/
+AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:
+/Users/Andrés Jerez/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfo
+nts/cm/cmmi8.pfb><C:/Users/Andrés Jerez/AppData/Local/Programs/MiKTeX 2.9/font
+s/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Andrés Jerez/AppData/Local/Prog
+rams/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/Andrés Jerez
+/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C
+:/Users/Andrés Jerez/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsf
+onts/cm/cmsy8.pfb><C:/Users/Andrés Jerez/AppData/Local/Programs/MiKTeX 2.9/fon
+ts/type1/public/amsfonts/symbols/msbm10.pfb>
+Output written on Roots.pdf (5 pages, 783532 bytes).
+PDF statistics:
+ 1265 PDF objects out of 1440 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 38 words of extra memory for PDF output out of 10000 (max. 10000000)
+
